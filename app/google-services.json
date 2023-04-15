@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936567437669",
+    "project_id": "wallpaer-app--friebase",
+    "storage_bucket": "wallpaer-app--friebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936567437669:android:23112dbaf5af701ee6898c",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936567437669-3gphq0f34si5mkvdn26p619kdb424tkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYuUNP_Z1AQmbGT0xqzUvFMYe9GAeEwNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936567437669-3gphq0f34si5mkvdn26p619kdb424tkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
