@@ -4,9 +4,6 @@
 
 
 
-   dependencies {
-
-   //multidex
    
     implementation'androidx.multidex:multidex:2.0.1'
 
@@ -27,8 +24,7 @@
 
     //round Image
     implementation 'com.makeramen:roundedimageview:2.3.0'
-    
-    }
+
 
 
 // Download wallpaper code for  wallpaper-App
