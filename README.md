@@ -1,13 +1,13 @@
-# Wallpaper-App
-
-
 // All dependencies for Wallpaper - App
 
 
 
-dependencies {
+
+
+   dependencies {
 
    //multidex
+   
     implementation'androidx.multidex:multidex:2.0.1'
 
     //animation
